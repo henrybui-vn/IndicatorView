@@ -1,0 +1,3 @@
+rootProject.name='IndicatorView'
+include ':app'
+include ':indicatorview'
